@@ -197,7 +197,10 @@
     <value>All set. I've paused your matches. You can turn them back on whenever you like.</value>
     <comment>The confirmation reply that is sent when the user pauses all matches</comment>
   </data>
-
+  <data name="PausePairingsButtonText" xml:space="preserve">
+    <value>Pause all matches</value>
+    <comment>Button text to pause pairings</comment>
+  </data>
   <data name="ProposeMeetupButtonText" xml:space="preserve">
     <value>Propose meetup</value>
     <comment>Button text to propose the meetup with the match of the user</comment>
