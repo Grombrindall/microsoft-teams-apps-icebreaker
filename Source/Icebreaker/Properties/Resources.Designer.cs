@@ -270,10 +270,10 @@ namespace Icebreaker.Properties {
         /// <summary>
         ///   Looks up a localized string similar to Pause all matches.
         /// </summary>
-        //public static string PausePairingsButtonText {
-        //    get {
-        //        return ResourceManager.GetString("PausePairingsButtonText", resourceCulture);
-        //    }
+        public static string PausePairingsButtonText {
+            get {
+                return ResourceManager.GetString("PausePairingsButtonText", resourceCulture);
+            }
         }
         
         /// <summary>
