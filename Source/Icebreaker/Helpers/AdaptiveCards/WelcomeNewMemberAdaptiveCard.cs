@@ -68,7 +68,7 @@ namespace Icebreaker.Helpers.AdaptiveCards
                 
                 tourUrl = GetTourFullUrl(appId, GetTourUrl(baseDomain), tourTitle),
                 salutationText = Resources.SalutationTitleText,
-                tourButtonText = Resources.TakeATourButtonText,
+   
             };
 
             return GetCard(AdaptiveCardTemplate.Value, welcomeData);
